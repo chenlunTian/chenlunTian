@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=chenlunTian&theme=minimal" />
-</div>
+![chenlunTian's github activity graph](https://activity-graph.herokuapp.com/graph?username=chenlunTian&theme=dracula)
