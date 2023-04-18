@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![chenlunTian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chenlunTian&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![chenlunTian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chenlunTian&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=chenlunTian&theme=minimal" />
-</div>
