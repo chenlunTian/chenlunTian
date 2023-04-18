@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![chenlunTian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenlunTian&theme=dark&show_icons=true)
+
+
 
 [![chenlunTian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chenlunTian&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
